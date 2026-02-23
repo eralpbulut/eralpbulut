@@ -4,6 +4,10 @@ Electrical and Electronics Engineering student at Bilkent University interested 
 
 I am actively seeking internship opportunities in software engineering, AI, and related fields.
 
+## CV
+
+[Download my CV](Mehmet_Eralp_Bulut_CV(EN).pdf)
+
 ---
 
 ## Education
